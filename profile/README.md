@@ -14,7 +14,7 @@ GBSW ReMake는 학생들이 자유롭게 아이디어를 내고
 
 > 우리가 만들고 있는 프로젝트들
 
-- [G원](https://github.com/GBSW-ReMake/...)
+- [GONE](https://github.com/GBSW-ReMake/.github/blob/main/GONE/README.md)
 
 ---
 
