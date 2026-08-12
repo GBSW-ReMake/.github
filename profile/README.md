@@ -1,6 +1,7 @@
 # GBSW ReMake
 
 > 학생들이 직접 만듭니다.
+[What-Is-ReMake?](https://gbsw-remake.vercel.app/)
 
 GBSW ReMake는 학생들이 자유롭게 아이디어를 내고
 서비스를 개발하며 함께 성장하는 개발 조직입니다.
