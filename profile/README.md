@@ -38,7 +38,7 @@ GBSW ReMake는 학생들이 자유롭게 아이디어를 내고
         <b>kec08</b>
       </a>
       <br>
-      Backend
+      App
     </td>
   </tr>
 </table>
