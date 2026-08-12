@@ -14,7 +14,7 @@ GBSW ReMake는 학생들이 자유롭게 아이디어를 내고
 
 > 우리가 만들고 있는 프로젝트들
 
-- [GONE](https://github.com/GBSW-ReMake/.github/blob/main/GONE/README.md)
+* [GONE](https://github.com/GBSW-ReMake/.github/tree/main/GONE)
 
 ---
 
@@ -24,21 +24,20 @@ GBSW ReMake는 학생들이 자유롭게 아이디어를 내고
   <tr>
     <td align="center">
       <a href="https://github.com/4n5rud">
-        <img src="https://github.com/4n5rud.png" width="100px;" alt="4n5rud"/>
-        <br />
-        <sub><b>4n5rud</b></sub>
+        <img src="https://github.com/4n5rud.png" width="100" alt="4n5rud">
+        <br>
+        <b>4n5rud</b>
       </a>
-      <br />
+      <br>
       Backend
     </td>
-
     <td align="center">
       <a href="https://github.com/kec08">
-        <img src="https://github.com/kec08.png" width="100px;" alt="kec08"/>
-        <br />
-        <sub><b>kec08</b></sub>
+        <img src="https://github.com/kec08.png" width="100" alt="kec08">
+        <br>
+        <b>kec08</b>
       </a>
-      <br />
+      <br>
       Backend
     </td>
   </tr>
@@ -48,15 +47,14 @@ GBSW ReMake는 학생들이 자유롭게 아이디어를 내고
 
 ## 🛠️ What We Do
 
-- 💡 자유로운 프로젝트 개발
-- 🔧 서비스 운영 및 유지보수
-- 🤝 협업 및 코드 리뷰
-- 📚 개발 지식 공유
-- 🌱 새로운 기술과 아이디어 실험
+* 💡 자유로운 프로젝트 개발
+* 🔧 서비스 운영 및 유지보수
+* 🤝 협업 및 코드 리뷰
+* 📚 개발 지식 공유
+* 🌱 새로운 기술과 아이디어 실험
 
 ---
 
 ## 📫 Contact
 
-GitHub Organization  
-https://github.com/GBSW-ReMake
+[GBSW ReMake on GitHub](https://github.com/GBSW-ReMake)
