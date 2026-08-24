@@ -1,12 +1,8 @@
 # GONE
 
-> **GBSW의 다양한 서비스를 하나로.**
+> **GBSW의 다양한 서비스를 하나로. GBSW - ONE (GONE)**
 
-GONE은 학생들이 자유롭게 아이디어를 제안하고,
-직접 개발하고, 운영하며 지속적으로 발전시켜 나가는 프로젝트입니다.
-
-하나의 서비스 경험을 위해 **Server · Android · iOS**를 각각 독립적인 Repository로 관리합니다.
-
+GONE은 교내의 여러 서비스들을 하나의 앱으로 통일시켜 관리하는 프로젝트입니다.
 ---
 
 ## 📦 Repositories
@@ -56,14 +52,6 @@ GONE은 학생들이 직접 기획하고 개발합니다.
 * 지속적인 유지보수
 
 프로젝트의 방향과 구현은 참여하는 학생들이 함께 결정합니다.
-
----
-
-## 🔗 Links
-
-* [Server Repository](https://github.com/GBSW-ReMake/GONE-server-V1)
-* [Android Repository](https://github.com/GBSW-ReMake/GONE-Android)
-* [iOS Repository](https://github.com/GBSW-ReMake/GONE-iOS)
 
 ---
 
