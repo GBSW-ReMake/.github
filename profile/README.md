@@ -39,10 +39,38 @@ GBSW ReMake는 학생들이 자유롭게 아이디어를 내고
         <b>kec08</b>
       </a>
       <br>
-      App
+      Web
+    </td>
+    <td align="center">
+      <a href="https://github.com/songmin102388">
+        <img src="https://github.com/songmin102388.png" width="100" alt="songmin102388">
+        <br>
+        <b>songmin102388</b>
+      </a>
+      <br>
+      Backend
+    </td>
+    <td align="center">
+      <a href="https://github.com/hyj090915">
+        <img src="https://github.com/hyj090915.png" width="100" alt="hyj090915">
+        <br>
+        <b>hyj090915</b>
+      </a>
+      <br>
+      Backend
+    </td>
+    <td align="center">
+      <a href="https://github.com/ja2x0n">
+        <img src="https://github.com/ja2x0n.png" width="100" alt="ja2x0n">
+        <br>
+        <b>ja2x0n</b>
+      </a>
+      <br>
+      Web
     </td>
   </tr>
 </table>
+
 
 ---
 
