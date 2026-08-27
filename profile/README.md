@@ -68,6 +68,15 @@ GBSW ReMake는 학생들이 자유롭게 아이디어를 내고
       <br>
       Web
     </td>
+    <td align="center">
+      <a href="https://github.com/wonu1016">
+        <img src="https://github.com/wonu1016.png?size=100" width="100" alt="wonu1016">
+        <br>
+        <b>wonu1016</b>
+      </a>
+      <br>
+      Backend
+    </td>
   </tr>
 </table>
 
